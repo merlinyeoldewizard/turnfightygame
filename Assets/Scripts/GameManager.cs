@@ -14,6 +14,8 @@ public class GameManager : MonoBehaviour {
         playerOne.setCurrentHealth(playerOne.maxHealth);
         playerTwo.setCurrentHealth(playerTwo.maxHealth);
 
+
+
     }
 	
 }
